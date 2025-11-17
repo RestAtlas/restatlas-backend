@@ -1,0 +1,4 @@
+id,name,address,lat,lng,facilities,fuel_diesel,fuel_regular,overnight,bathroom_rating
+1,"RestAtlas Stop 1","100 Service Rd",39.100000,-94.500000,"showers|truck_parking|food",4.099,3.199,TRUE,4.2
+2,"RestAtlas Stop 2","200 Service Rd",39.200000,-94.600000,"truck_parking|clean_bathroom|diesel",4.179,3.259,TRUE,3.9
+3,"RestAtlas Stop 3","300 Service Rd",39.300000,-94.700000,"food|truck_parking",0,0,FALSE,3.5
